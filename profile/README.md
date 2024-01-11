@@ -13,3 +13,7 @@
 ### Important Usage Information for Firefox Users!  
 - *Make sure to Right Click the Extension Icon in your Browser Bar*  
 - *Click "Always Allow on Kick" or else the extension will not work as it should*  
+
+# Support This Project  
+  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/miahfuta) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/miahfuta)  [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://www.miahfuta.com/#donations) [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://www.miahfuta.com/#donations)   
