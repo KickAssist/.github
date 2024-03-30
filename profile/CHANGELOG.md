@@ -11,12 +11,22 @@
 [![Discord Banner 3](https://discordapp.com/api/guilds/125694674382880768/widget.png?style=banner3)](https://discord.gg/invite/snvWEvg2C4)  
 
 
-## Version 1.2.0 Changes
+## Version 1.2.1 Changes
+
+- Added a Draggable Channel Stats Overlay  
+  It is enabled by default, but you can disable in the channel settings
+- Replaced the old in menu change logs with this new change log
+- Flying Patricks is now disabled by default
+- Auto HD Stream is now disabled by default
+- Other Misc Fixes/Improvements
+
+
+## Version 1.2.0 Changes  
 
 - Hot Fix for VODS
 
 
-## Version 1.1.9 Changes
+## Version 1.1.9 Changes  
 
 - Added a Menu Max Height, so you can scroll in the KickAssist Settings Menus now
 - Added the Option for Auto HD Streams
