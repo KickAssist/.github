@@ -3,7 +3,7 @@
     
 ㅤ  
     
-## [Click Here for the Change Log](https://github.com/KickAssist/.github/blob/main/profile/CHANGELOG.md)    
+## [Click Here to View the Change Log](https://github.com/KickAssist/.github/blob/main/profile/CHANGELOG.md)    
 <br>
 
 ## [Click Here for the Chrome Version](https://chromewebstore.google.com/detail/kickassist/mhofahpppljielibicgjjjddhnkmhpml)
