@@ -1,5 +1,5 @@
 # Change Log for the KickAssist Browser Extension   
-
+### Enhance Kick.com with Message History, Replay Buffer, VOD Controls, Spell Check and More!  
 
 # Support This Project  
 
