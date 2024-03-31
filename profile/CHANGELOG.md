@@ -22,7 +22,7 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
-## Version 1.2.1 Changes (Not yet published)
+## Version 1.2.1 Changes (Released on Firefox | Pending Review on Chrome)
 
 - Added a Draggable and Resizable Channel Stats Overlay  
   It is enabled by default, but you can disable in the channel settings
