@@ -22,7 +22,7 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
-## Version 1.2.2 Changes (Pending)
+## Version 1.2.2 Changes (Released on Firefox | Pending Review on Chrome)
 
 - Hox Fix for Channel Stats Overlay (Added Auto Scaling for Small Monitors)
 - Added a wider range of scaling for the Channel Stats Overlay
