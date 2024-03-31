@@ -20,11 +20,10 @@ If you would like to support the KickAssist Extension and get a custom badge on 
 
 ## Version 1.2.1 Changes (Not yet published)
 
-- Added a Draggable Channel Stats Overlay  
+- Added a Draggable and Resizable Channel Stats Overlay  
   It is enabled by default, but you can disable in the channel settings
 - Replaced the old in menu change logs with this new change log
 - Flying Patricks is now disabled by default
-- Auto HD Stream is now disabled by default
 - Other Misc Fixes/Improvements
 
 
