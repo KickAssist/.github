@@ -18,7 +18,7 @@ If you would like to support the KickAssist Extension and get a custom badge on 
 [![Discord Banner 3](https://discordapp.com/api/guilds/125694674382880768/widget.png?style=banner3)](https://discord.gg/invite/snvWEvg2C4)  
 
 
-## Version 1.2.1 Changes
+## Version 1.2.1 Changes (Not yet published)
 
 - Added a Draggable Channel Stats Overlay  
   It is enabled by default, but you can disable in the channel settings
