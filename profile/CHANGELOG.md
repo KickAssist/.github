@@ -159,3 +159,8 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 - Added VOD Rewind and Fast Forward Buttons
 - Added VOD Hotkeys to Rewind and Fast Forward using the Left and Right Arrow Keys
+
+
+## Version 1.0.1 and Earlier Changes
+
+- I forgot, sorry!
