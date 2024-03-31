@@ -32,7 +32,7 @@ These badges will only be shown to other users who are using the KickAssist Exte
 If you would like to support the KickAssist Extension and get a custom badge on your name, you can get one by making a $5 donation via my PayPal Link or my Patreon Link. Or you can gift me a sub to a channel I'm active in, if I don't already have a sub. But please, ask me first!  
 
 
-# Get Support on Discord  
+# Get Support, Suggest Changes or New Features on Discord  
 
 [![Discord Banner 3](https://discordapp.com/api/guilds/125694674382880768/widget.png?style=banner3)](https://discord.gg/invite/snvWEvg2C4)  
    
