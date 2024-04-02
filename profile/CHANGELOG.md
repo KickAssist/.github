@@ -22,13 +22,13 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
-## Version 1.2.2 Changes (Released on Firefox | Pending Review on Chrome)
+## Version 1.2.2 Changes  
 
 - Hox Fix for Channel Stats Overlay (Added Auto Scaling for Small Monitors)
 - Added a wider range of scaling for the Channel Stats Overlay
 
 
-## Version 1.2.1 Changes
+## Version 1.2.1 Changes  
 
 - Added a Draggable and Resizable Channel Stats Overlay  
   It is enabled by default, but you can disable in the channel settings
