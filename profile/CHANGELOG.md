@@ -9,7 +9,8 @@
 KickAssist Extension Supporters can now have a custom badge next to their name in chat for all channels they chat in.  
 These badges will only be shown to other users who are using the KickAssist Extension.  
 
-### Supporter Badge Preview: <br><br><img src="https://github.com/KickAssist/.github/blob/main/resources/ka-badge-preview.gif" alt="Image" width="245" height="35">  
+### Supporter Badge Preview:   
+<img src="https://github.com/KickAssist/.github/blob/main/resources/ka-badge-preview.gif" alt="Image" width="245" height="35">  
 <br>
 
 If you would like to support the KickAssist Extension and get a custom badge, you can get one by making a $5 donation via my PayPal Link or my Patreon Link. Or you can gift me a sub to a channel I'm active in, if I don't already have a sub. But please, ask me first!  
