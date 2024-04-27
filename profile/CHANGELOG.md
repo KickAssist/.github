@@ -23,6 +23,19 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
+## Version 1.2.3 Changes (Released on Firefox | Chrome Pending Review)  
+
+- Added: Clicking on the Live Button in Streams will skip ahead to the live video
+- Added: Draggable and Resizable Chat Overlay Widget (Disabled by Default)
+- Added: Sound on Mention Feature (Enabled by Default)
+- Added: Auto Reject Hosts (Disabled by Default)
+- Changed: Auto HD to Disabled by Default
+- Changed: Channel Stats to Disabled by Default
+- Changed: Closing the Stats Overlay will now Fully Disable and Clear the Stats
+- Bug Fix: where sometimes the Stats Overlay would show when disabled
+- Major Code Clean Up to Improve Load Times and Overall Performance
+
+
 ## Version 1.2.2 Changes  
 
 - Hox Fix for Channel Stats Overlay (Added Auto Scaling for Small Monitors)
