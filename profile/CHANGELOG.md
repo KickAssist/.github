@@ -26,6 +26,7 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 ## Version 1.2.3.1 Changes (pending review by google)  
 
 - Hot Fix: Chat Settings Menu not showing KickAssist Menu in pop out chat or on mobile
+- Hot Fix: Message History stopped working after pop out chat was closed
 
 
 ## Version 1.2.3 Changes  
