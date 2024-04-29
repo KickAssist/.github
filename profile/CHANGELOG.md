@@ -23,6 +23,11 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
+## Version 1.2.3.1 Changes (pending review by google)  
+
+- Hot Fix: Chat Settings Menu not showing KickAssist Menu in pop out chat or on mobile
+
+
 ## Version 1.2.3 Changes  
 
 - Added: Clicking on the Live Button in Streams will skip ahead to the live video
