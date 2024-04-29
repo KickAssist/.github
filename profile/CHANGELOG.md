@@ -23,7 +23,7 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
-## Version 1.2.3 Changes (Released on Firefox | Chrome Pending Review)  
+## Version 1.2.3 Changes  
 
 - Added: Clicking on the Live Button in Streams will skip ahead to the live video
 - Added: Draggable and Resizable Chat Overlay Widget (Disabled by Default)
