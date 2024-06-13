@@ -4,6 +4,7 @@
 ㅤ  
     
 ## [Click Here to View the Change Log](https://github.com/KickAssist/.github/blob/main/profile/CHANGELOG.md)    
+## [Click Here to View the Road Map](https://github.com/orgs/KickAssist/projects/2/views/1)    
 <br>
 
 ## [Click Here for the Chrome Version](https://chromewebstore.google.com/detail/kickassist/mhofahpppljielibicgjjjddhnkmhpml)
