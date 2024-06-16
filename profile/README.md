@@ -44,8 +44,59 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 [![Discord Banner 3](https://discordapp.com/api/guilds/125694674382880768/widget.png?style=banner3)](https://discord.gg/invite/snvWEvg2C4)  
    
 ㅤ  
+# Extension Features   
+
+### Chat Features
+
+- Enables Spellcheck
+- Sent Message History
+- Sound on Mention Option
+- Theater Mode Left Side Chat Option
+- Auto Focus Input after Message Send
+- Auto Focus Input after Quick Emote Send
+- Toggle Auto Chat Scrolling with ALT Key
+- Client Side Chat Clear Prevention
+- Client Side Chat Clear Option
+- Show Banned Messages
+- Show Deleted Messages
+- Show Timed Out Messages
+- Reveals Detailed Mod Actions
+- Message Outlines for Staff
+- Message Outlines for Moderators
+- Message Outlines for Streamer
+- Message Outlines for Verified
+
+
+### Stream Features
+
+- Auto HD Stream
+- Auto Mute Stream
+- Auto Theater Mode
+- Auto Reject Hosts Option
+- Replay Buffer to Rewind
+- Custom Playback Speed
+- Custom Channel Stats Overlay
+- Draggable and Resizable Chat Overlay Widget
+- Clicking on the Live Button in Streams will skip ahead to the live video
+
+
+### VOD Features
+
+- Save VOD Time History
+- Better VOD Controls
+- Better Time Stamps
+- Custom Playback Speed
+- Space Bar = Pause/Play
+
+
+### Other Features
+
+- Animated Supporter Badges for everyone who helps support the extension
+- Typing KA in chat will show a Custom Animated Emote to All Extension Users
+
+<br>   
    
-## Screenshots *(These may not always reflect the latest changes)*  
+# Screenshots *(These may not always reflect the latest changes)*  
 
 > Popup Menu
 ![Popup Menu](/screenshots/popup.png)  
