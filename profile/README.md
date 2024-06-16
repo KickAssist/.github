@@ -1,11 +1,12 @@
 # KickAssist Browser Extension
 ### Enhance Kick.com with Message History, Replay Buffer, VOD Controls, Spell Check and More!  
     
-## [Click Here to View the Change Log](https://github.com/KickAssist/.github/blob/main/profile/CHANGELOG.md)    
-## [Click Here to View the Road Map](https://github.com/orgs/KickAssist/projects/2/views/1)    
+### [Click Here to View the Current Features](https://github.com/KickAssist#extension-features)    
+### [Click Here to View the Change Log](https://github.com/KickAssist/.github/blob/main/profile/CHANGELOG.md)    
+### [Click Here to View the Road Map](https://github.com/orgs/KickAssist/projects/2/views/1)    
 <br>
 
-## [Click Here for the Chrome Version](https://chromewebstore.google.com/detail/kickassist/mhofahpppljielibicgjjjddhnkmhpml)
+## [Click Here to get the Chrome Version](https://chromewebstore.google.com/detail/kickassist/mhofahpppljielibicgjjjddhnkmhpml)
    
 > [!note]  
 > ### The Chrome Version should work fine on other browsers as well  
@@ -13,7 +14,7 @@
 
 ㅤ  
    
-## [Click Here for the Firefox Version](https://addons.mozilla.org/en-US/firefox/addon/kickassist/)
+## [Click Here to get the Firefox Version](https://addons.mozilla.org/en-US/firefox/addon/kickassist/)
    
 > [!important]  
 > ### Usage Information for Firefox Users!  
