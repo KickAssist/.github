@@ -25,6 +25,18 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
+## Version 1.2.4 Changes  
+
+- Added - Copy Message Button
+- Added - Custom Emotes to Emotes Menu
+- Added - Auto Fill Last Message for Easy Spamming
+- Fixed - Bugs caused by Kick, like random chat pauses
+- Fixed - Channel Stats and Chat Overlay, due to Kick Site Changes
+- Change - Lowered the Sound on Mention Volume from 90% to 50% of system volume
+- Change - Message History will no longer save messages sent that start with a /
+- Change - Kick Assist Extension Menu now shows a link to this roadmap
+
+
 ## Version 1.2.3.1 Changes  
 
 - Hot Fix: Chat Settings Menu not showing KickAssist Menu in pop out chat or on mobile
