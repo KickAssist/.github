@@ -1,7 +1,8 @@
 # Change Log for the KickAssist Browser Extension   
 ### Enhance Kick.com with Message History, Replay Buffer, VOD Controls, Spell Check and More!  
 
-## [Click Here to View the Road Map](https://github.com/orgs/KickAssist/projects/2/views/1)    
+### [Click Here to View the Current Features](https://github.com/KickAssist#extension-features)    
+### [Click Here to View the Road Map](https://github.com/orgs/KickAssist/projects/2/views/1)    
 <br>
 
 # Support This Project  
@@ -15,7 +16,7 @@ These badges will only be shown to other users who are using the KickAssist Exte
 <img src="https://github.com/KickAssist/.github/blob/main/resources/ka-badge-preview.gif" alt="Image" width="245" height="35">  
 <br>
 
-If you would like to support the KickAssist Extension and get a custom badge, you can get one by making a $5 donation via my PayPal Link or my Patreon Link. Or you can gift me a sub to a channel I'm active in, if I don't already have a sub. But please, ask me first! After you make a donation for the badge, please make sure to message me on Discord with your Kick Channel Name so I can give your your badge.  
+If you would like to support the KickAssist Extension and get a custom badge, you can get one by making a $5 donation via my PayPal Link or my Patreon Link. Or you can gift me a sub to a channel I'm active in, if I don't already have a sub. But please, ask me first! After you make a donation for the badge, please make sure to message me on Discord with your Kick Channel Name so I can add your badge.  
 <br><br>
 
 # Get Support, Suggest Changes or New Features on Discord  
