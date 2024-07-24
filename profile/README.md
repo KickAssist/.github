@@ -50,6 +50,9 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 - Enables Spellcheck
 - Sent Message History
 - Sound on Mention Option
+- Copy Message Button
+- Custom KickAssist Emotes
+- Auto Fill Last Sent Message
 - Theater Mode Left Side Chat Option
 - Auto Focus Input after Message Send
 - Auto Focus Input after Quick Emote Send
