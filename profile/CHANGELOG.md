@@ -48,7 +48,7 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 ## Version 1.2.4.2 Changes  
 
-- Changed - Sound on Mention to Default Disabled for New Channels
+- Change - Sound on Mention to Default Disabled for New Channels
 - Bug Fix - Auto Load Last Message not disabling when changing channels
 
 
