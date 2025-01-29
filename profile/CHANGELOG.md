@@ -26,6 +26,26 @@ If you would like to support the KickAssist Extension and get a custom badge, yo
 
 # KickAssist Recent Changes
 
+## Version 1.2.5 Changes
+
+- Added - Option to Open the Old Kick UI from the Extension Tool Bar Popup Menu
+  - This change required the use to the added "Tabs" permission that is being requested by the extension
+  - **Technically you could leave this permission disabled if you really wanted to**
+  - *But doing so would mean that button in the popup menu would not work*
+- Bug Fixes for Multiple Style issues, listed below
+  - Fixed - Banned Messages Default Message
+  - Fixed - Deleted Messages Default Message
+  - Fixed - Timed Out Messages Default Message
+  - Fixed - Host Auto Rejected Messages Messages
+  - Fixed - Spellcheck not underlining misspelled words
+  - Fixed - Message History Menu not listing messages correctly
+  - Fixed - Settings Menu not closing correctly when clicking the X button
+- Other Bug Fixes for Settings Toggles
+  - Fixed - Show Deleted Messages not turning on/off when changing settings
+  - Fixed - Show Timed Out Messages not turning on/off when changing settings
+  - Fixed - Show Banned Messages not turning on/off when changing settings
+
+
 ## Version 1.2.4.2 Changes  
 
 - Changed - Sound on Mention to Default Disabled for New Channels
